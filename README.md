@@ -1,4 +1,4 @@
-# Encryption-Decryption-scripts
+# Encryption-Decryption scripts
 Generation, encryption, decryption shell scripts. RSA algorithm 2048 bit key | .sh scripts. Made for .txt
 
 There are 3 .sh files: 
