@@ -6,4 +6,4 @@ There are 3 .sh files:
 2- Encryption of the txt file
 3- Decryption of the txt file
 
-They're just some simple scripts that include already the instructions. Nothing special. :)
+They're just some simple scripts that include already the instructions. :)
